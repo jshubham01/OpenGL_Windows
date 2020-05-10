@@ -1,0 +1,4 @@
+#include "res.h"
+
+ID_BIT_IMG_BACK_CARD BITMAP Backside.bmp
+ID_BIT_IMG_INSIDE BITMAP LeeAsher.bmp
