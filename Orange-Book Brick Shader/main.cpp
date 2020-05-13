@@ -1,6 +1,6 @@
 /*
 Module Name:
-	This App demostrates the just Black Screen having Orthographic Projection Having Triangle To Display of Programmable Pipeline
+	This App demostrates the procedural textures : Bricks Wall From Orange Book
 	This code builds the template for shaders of Programmable Pipeline
 
 Abstract:
