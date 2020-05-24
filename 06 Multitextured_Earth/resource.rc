@@ -1,0 +1,4 @@
+#include "res.h"
+IDBITMAP BITMAP Night.bmp
+IDBITMAP1 BITMAP Day.bmp
+IDBITMAP2 BITMAP cloud_combined.bmp

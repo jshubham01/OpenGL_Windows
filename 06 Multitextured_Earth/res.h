@@ -1,0 +1,3 @@
+#define IDBITMAP 101	
+#define IDBITMAP1 102	
+#define IDBITMAP2 103	
