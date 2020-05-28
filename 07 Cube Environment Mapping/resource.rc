@@ -1,0 +1,8 @@
+#include "res.h"
+IDBITMAP1 BITMAP posx.bmp
+IDBITMAP2 BITMAP posy.bmp
+IDBITMAP3 BITMAP posz.bmp
+IDBITMAP4 BITMAP negx.bmp
+IDBITMAP5 BITMAP negy.bmp
+IDBITMAP6 BITMAP negz.bmp
+
