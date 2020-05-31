@@ -1,0 +1,2 @@
+#include "res.h"
+ID_BITMAP_GLYPH BITMAP GlyphMosaic.bmp
