@@ -1,0 +1,23 @@
+#pragma once
+/////////////////////////////////////////////////////////////////////
+//	H E A D E R S.
+/////////////////////////////////////////////////////////////////////
+#include<Windows.h>
+#include<stdio.h>
+#include<math.h>
+#include<GL/glew.h>
+#include<GL/gl.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
+#include "vmath.h"
+
+/////////////////////////////////////////////////////////////////////
+//	M A C R O S   &   P R A G M A S 
+/////////////////////////////////////////////////////////////////////
+#pragma comment(lib, "Opengl32.lib")
+//#pragma comment(lib, "glew32.lib")
+#define WIN_WIDTH 800
+#define WIN_HEIGHT 600
+#define LINE_POINTS 1000
+
+using namespace vmath;
